@@ -1,0 +1,7 @@
+{
+  "name": "dipen/lab",
+  "description": "Stripe payment gateway lab assignment",
+  "require": {
+    "stripe/stripe-php": "^19.3"
+  }
+}
